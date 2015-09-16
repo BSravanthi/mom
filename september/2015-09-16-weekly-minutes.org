@@ -1,0 +1,12 @@
+#+Title:  Status Update Meeting
+#+Author: Soujanya
+#+Date:   <2015-09-07 Tuesday>
+
+* Attendees
+
+Prof. Raghu, Soujanya, Apurv, Sadhana, Sravanthi
+
+* Discussion
+** Run an experiment using decompiler and demo entire process that involves in making it functional: Soujanya
+** Demo the process of brigning the lab from level 4 to level 6: Apurv
+** Collect and Document the status of all IIITH labs: Team 
