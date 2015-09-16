@@ -47,7 +47,7 @@ Prof. Raghu, Khushpreet, Soujanya, Apurv, Sadhana, Sravanthi
 |        | after testing the sources, keeping old        |             |              |                                                          |
 |        | analytics in place                            |             |              |                                                          |
 |--------+-----------------------------------------------+-------------+--------------+----------------------------------------------------------|
-|      2 | Host Computer Graphics lab on cloud after     | Sadhana     | [2015-09-11] | In Progress                                                     |
+|      2 | Host Computer Graphics lab on cloud after     | Sadhana     | [2015-09-11] | DONE                                                            |
 |        | testing the sources, keeping old analytics    |             |              |                                                          |
 |        | at place                                      |             |              |                                                          |
 |--------+-----------------------------------------------+-------------+--------------+----------------------------------------------------------|
