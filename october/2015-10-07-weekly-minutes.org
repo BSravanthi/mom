@@ -1,0 +1,21 @@
+#+Title:  Status Update Meeting
+#+Author: Khushpreet
+#+Date:   <2015-10-07 Wednesday>
+
+* Attendees
+
+Prof. Raghu, Sadhana, Sravanthi, Sourav, Ayush, Siddharth and Khushpreet 
+
+* Tasks to do
+
+** Resolve 10th experiment's issue of Computer Programming Lab :: Khushpreet
+** Need to get Pattern Recognition Lab to integration Level 6 and handover to QA team for testing :: Sadhana
+** Set up Java 3D on local machine to run physical Chemistry Lab :: Sravanthi
+** Backup excel sheet to github :: Khushpreet 
+** Re-engineer Data Structures Lab :: RAs
+- 7th experiment i.e Graph Traversal :: Ayush 
+- 5th experiment i.e Binary Search :: Sourav Sarangi
+- 1st experiment i.e Number System :: Anveshi
+- Automation Script :: Siddharth
+
+
