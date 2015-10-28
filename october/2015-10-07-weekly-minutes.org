@@ -17,5 +17,8 @@ Prof. Raghu, Sadhana, Sravanthi, Sourav, Ayush, Siddharth and Khushpreet
 - 5th experiment i.e Binary Search :: Sourav Sarangi
 - 1st experiment i.e Number System :: Anveshi
 - Automation Script :: Siddharth
+- 3rd exp flash to JS :: Sravanthi 
+- 2nd exp flash to JS :: Sadhana 
+- 1st exp flash to JS :: Khushpreet
 
 
