@@ -1,0 +1,41 @@
+#+Title:  Status Update Meeting
+#+Author: Integration team
+#+Date:   <2015-11-04 Wednesday>
+
+* Attendees
+
+Prof. Raghu, Sadhana, Sravanthi, Khushpreet, Sourav, Siddharth,
+Anveshi, Ayush and Avinash
+
+* Tasks to do
+
+** Re-engineer Data Structures Lab
+
+- 1st experiment i.e Number System :: Khushpreet
+- 2nd experiment i.e Expression Evaluation :: Sadhana 
+- 3rd experiment i.e Sorting Algorithm :: Anveshi 
+- 6th experiment i.e Search Trees [Documentation along functional testing] :: Sourav Sarangi
+- 7th experiment i.e Graph Traversal [Documentation along with functional testing] :: Ayush & Sravanthi
+- 8th experiment i.e Shortest Paths in Graphs :: Avinash
+- Automation Script [Documentation along with test cases] :: Siddharth
+
+** Other tasks to do
+
+- Documentation with test cases for computer programming lab - Khushpreet 
+
+- Find NPTEL lect on c programming - Khushpreet 
+
+- Integrate experiment 7 to lab's main page
+
+- Make a sheet with detailed info of lab's technologies, current
+  status and with TODO list along with estimation time.  - Sravanthi 
+  1) Estimation time for rewriting experiments 
+  2) Corresponding technologies experiment wise
+  
+- Collate the list of technologies for the 20 labs for Giritej - Need 
+  to send the list for Giritej so that he will get familiar with these
+  technologies - Sadhana
+
+** Other tasks 
+
+- Create "timesheets" repo under "integration-team-iiith". 
