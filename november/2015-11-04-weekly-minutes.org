@@ -36,6 +36,6 @@ Anveshi, Ayush and Avinash
   to send the list for Giritej so that he will get familiar with these
   technologies - Sadhana
 
-** Other tasks 
+** Minor tasks 
 
-- Create "timesheets" repo under "integration-team-iiith". 
+- Create "timesheets" repo under "integration-team-iiith".
