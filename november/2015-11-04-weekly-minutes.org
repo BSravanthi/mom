@@ -25,7 +25,7 @@ Anveshi, Ayush and Avinash
 
 - Find NPTEL lect on c programming - Khushpreet 
 
-- Integrate experiment 7 to lab's main page
+- Integrate experiment 7 to lab's main page :: DONE 
 
 - Make a sheet with detailed info of lab's technologies, current
   status and with TODO list along with estimation time.  - Sravanthi 
