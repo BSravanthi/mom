@@ -29,8 +29,7 @@ Anveshi, Ayush and Avinash
 
 - Make a sheet with detailed info of lab's technologies, current
   status and with TODO list along with estimation time.  - Sravanthi 
-  1) Estimation time for rewriting experiments 
-  2) Corresponding technologies experiment wise
+  1) Corresponding technologies experiment wise
   
 - Collate the list of technologies for the 20 labs for Giritej - Need 
   to send the list for Giritej so that he will get familiar with these
