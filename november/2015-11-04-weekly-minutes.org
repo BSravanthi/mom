@@ -21,7 +21,7 @@ Anveshi, Ayush and Avinash
 
 ** Other tasks to do
 
-- Documentation with test cases for computer programming lab - Khushpreet 
+- Documentation with test cases for computer programming lab - Khushpreet - DONE
 
 - Find NPTEL lect on c programming - Khushpreet 
 
