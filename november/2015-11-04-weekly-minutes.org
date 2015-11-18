@@ -28,7 +28,7 @@ Anveshi, Ayush and Avinash
 - Integrate experiment 7 to lab's main page :: DONE 
 
 - Make a sheet with detailed info of lab's technologies, current
-  status and with TODO list along with estimation time.  - Sravanthi 
+  status and with TODO list .  - Sravanthi 
   1) Corresponding technologies experiment wise
   
 - Collate the list of technologies for the 20 labs for Giritej - Need 
