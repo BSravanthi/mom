@@ -14,7 +14,6 @@ Anveshi, Ayush and Avinash
 - 1st experiment i.e Number System :: Khushpreet
 - 2nd experiment i.e Expression Evaluation :: Sadhana 
 - 3rd experiment i.e Sorting Algorithm :: Anveshi 
-- 5th experiment i.e Expression Trees :: Sravanthi
 - 6th experiment i.e Search Trees [Documentation along functional testing] :: Sourav Sarangi
 - 7th experiment i.e Graph Traversal [Documentation along with functional testing] :: Ayush & Sravanthi
 - 8th experiment i.e Shortest Paths in Graphs :: Avinash
