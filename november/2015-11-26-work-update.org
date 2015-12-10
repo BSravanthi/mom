@@ -1,16 +1,16 @@
 #+Title:  Status Update Meeting
 #+Author: Integration team
 #+Date:   <2015-11-26 Thursday>
-* Attendees
+** Attendees
 Prof. Raghu,Thirumal,khushpreet,Sadhana and Sravanthi
 
-* Tasks to do
+** Tasks to do
 *** Converting Data Structures Lab from flash to JavaScript
    - 1st experiment i.e Number System - (Khushpreet)
    - 2nd experiment i.e Expression Evaluation -(Sadhana)
    - 5th experiment i.e; Expression Trees -(Sravanthi)
     
-* Status of the Tasks:    
+** Status of the Tasks:    
 - Number System (Khushpreet) 
   Status: Done with Binary Addition and Multiplication,Unary addition and 
           multiplication with animation.10 to 20% of the animation part for the Roman 
@@ -32,7 +32,7 @@ Prof. Raghu,Thirumal,khushpreet,Sadhana and Sravanthi
   
   Todo: Need to implement functionality with animation for the Experiment. 
 
-* Discussions
+** Discussions
 - Meeting to be conducted on dec 7th with Giritej(from NIT Suratkal) in the presence
   of prof.Venkatesh, Thirumal, Priya and Integration Team. 
 
