@@ -15,12 +15,14 @@ Prof. Raghu,Thirumal,khushpreet,Sadhana and Sravanthi
   Status: Done with Binary Addition and Multiplication,Unary addition and 
           multiplication with animation.10 to 20% of the animation part for the Roman 
           Experiment is left. 
+  
   Todo: Need to implement animation for Roman Experiment Simulation.
 
 - Expression Evaluation(Sadhana)
   Status: Done with experiment functionality.
           Gone through Javascript Course and tried to implement animations for
           the experiment. 
+  
   Todo: Need to implement animation for the same experiment. 
 
 - Expression Trees(Sravathi)
