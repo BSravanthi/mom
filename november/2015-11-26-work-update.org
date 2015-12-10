@@ -25,7 +25,7 @@ Prof. Raghu,Thirumal,khushpreet,Sadhana and Sravanthi
   
   Todo: Need to implement animation for the same experiment. 
 
-- Expression Trees(Sravathi)
+- Expression Trees(Sravanthi)
   Status: Done with the basic template. 
           Gone through Javascript Course and implemented some part of the
           functionality.
@@ -34,7 +34,7 @@ Prof. Raghu,Thirumal,khushpreet,Sadhana and Sravanthi
 
 * Discussions
 - Meeting to be conducted on dec 7th with Giritej(from NIT Suratkal) in the presence
- of prof.Venkatesh, Thirumal, Priya and Integration Team. 
+  of prof.Venkatesh, Thirumal, Priya and Integration Team. 
 
 
 
