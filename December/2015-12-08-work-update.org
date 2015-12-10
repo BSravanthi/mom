@@ -11,4 +11,4 @@ Prof. Raghu, Giritej, Sravanthi, Sadhana
 - Converting Computer Organization Lab(for the two experiments) from flash
   to JavaScript. - Giritej
 - Need to implement animation for the Expression Evaluation Experiment from the
-  Data Structures Lab. - adhana & Sravathi
+  Data Structures Lab. - Sadhana & Sravathi
