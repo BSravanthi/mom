@@ -12,7 +12,7 @@ Prof. Raghu,Thirumal,khushpreet,Sadhana and Sravanthi
     
 * Status of the Tasks:    
 - Number System (Khushpreet) 
-  Status: Done with Binary Addition and Multiplacation,Unary addition and 
+  Status: Done with Binary Addition and Multiplication,Unary addition and 
           multiplication with animation.10 to 20% of the animation part for the Roman 
           Experiment is left. 
   Todo: Need to implement animation for Roman Experiment Simulation.
