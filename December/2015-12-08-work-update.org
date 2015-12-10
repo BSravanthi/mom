@@ -1,7 +1,6 @@
 #+Title:  Status Update Meeting
 #+Author: Integration team
 #+Date:   <2015-12-08 Wednesday>
-*Status Update Meeting
 
 ** Attendees
 Prof. Raghu, Giritej, Sravanthi, Sadhana
