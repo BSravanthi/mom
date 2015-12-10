@@ -6,11 +6,11 @@ Prof. Raghu,Thirumal,khushpreet,Sadhana and Sravanthi
 
 * Tasks to do
 ** Converting Data Structures Lab from flash to JavaScript
-   1st experiment i.e Number System
+   - 1st experiment i.e Number System
     Khushpreet
-   2nd experiment i.e Expression Evaluation
+   - 2nd experiment i.e Expression Evaluation
     Sadhana
-   5th experiment i.e; Expression Trees
+   - 5th experiment i.e; Expression Trees
     Sravanthi
     
 * Status of the Tasks:    
