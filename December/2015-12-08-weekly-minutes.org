@@ -2,13 +2,19 @@
 #+Author: Integration team
 #+Date:   <2015-12-08 Wednesday>
 
-* Attendees
+** Attendees
 Prof. Raghu, Giritej, Sravanthi, Sadhana
 
-* Tasks to do
+** Tasks to do
 
-- Documentation with test cases for Computer-Organization Lab -Giritej
+- Documentation with test cases for the Computer-Organization Lab - Giritej
+
 - Converting Computer Organization Lab(for the two experiments) from flash
-  to JavaScript. -Giritej
+  to JavaScript. - Giritej
+  
 - Need to implement animation for the Expression Evaluation Experiment from the
-  Data Structures Lab. -Sadhana & Sravathi
+  Data Structures Lab. - Sadhana & Sravanthi
+  
+** Discussions
+
+- Come up with a work plan for Integration Team for the next two weeks. -Sadhana and Sravanthi
