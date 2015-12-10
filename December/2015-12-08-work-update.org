@@ -1,11 +1,12 @@
 #+Title:  Status Update Meeting
 #+Author: Integration team
 #+Date:   <2015-12-08 Wednesday>
+*Status Update Meeting
 
-* Attendees
+** Attendees
 Prof. Raghu, Giritej, Sravanthi, Sadhana
 
-* Tasks to do
+** Tasks to do
 
 - Documentation with test cases for the Computer-Organization Lab - Giritej
 
@@ -13,4 +14,8 @@ Prof. Raghu, Giritej, Sravanthi, Sadhana
   to JavaScript. - Giritej
   
 - Need to implement animation for the Expression Evaluation Experiment from the
-  Data Structures Lab. - Sadhana & Sravathi
+  Data Structures Lab. - Sadhana & Sravanthi
+  
+** Discussions
+
+- Come up with a work plan for Integration Team for the next two weeks. -Sadhana and Sravanthi
