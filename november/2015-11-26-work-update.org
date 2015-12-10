@@ -5,10 +5,10 @@
 Prof. Raghu,Thirumal,khushpreet,Sadhana and Sravanthi
 
 * Tasks to do
-** converting Data StCructures Lab from flash to JavaScript
+** converting Data Structures Lab from flash to JavaScript
 - Number System (Khushpreet) 
   Status: Done with Binary Addition and Multiplacation,Unary addition and 
-          multiplication animation.10 to 20% of the animation for the Roman 
+          multiplication with animation.10 to 20% of the animation part for the Roman 
           Experiment is left. 
   Todo: Need to implement animation for Roman Experiment Simulation.
 
