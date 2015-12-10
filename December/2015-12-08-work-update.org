@@ -8,7 +8,9 @@ Prof. Raghu, Giritej, Sravanthi, Sadhana
 * Tasks to do
 
 - Documentation with test cases for the Computer-Organization Lab - Giritej
+
 - Converting Computer Organization Lab(for the two experiments) from flash
   to JavaScript. - Giritej
+  
 - Need to implement animation for the Expression Evaluation Experiment from the
   Data Structures Lab. - Sadhana & Sravathi
