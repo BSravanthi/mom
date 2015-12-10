@@ -25,7 +25,7 @@ Prof. Raghu,Thirumal,khushpreet,Sadhana and Sravanthi
   Todo: Need to implement functionality with animation for the Experiment. 
 
 * Discussions
--Meeting to be conducted on dec 7th with Giritej(from NIT Suratkal) in the presence
+- Meeting to be conducted on dec 7th with Giritej(from NIT Suratkal) in the presence
  of prof.Venkatesh, Thirumal, Priya and Integration Team. 
 
 
