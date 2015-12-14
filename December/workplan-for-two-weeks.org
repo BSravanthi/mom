@@ -1,3 +1,7 @@
+#+Title:  Status Update Meeting
+#+Author: Integration team
+#+Date:   <2015-12-14 Monday>
+
 * Workplan for next two weeks
 
 1) We need to implement the 2nd exp. - Sadhana & Sravanthi
@@ -5,4 +9,4 @@
 3) Need to implement 2 experiments of Computer Organization Lab. - GiriTej 
 4) Need to document the test cases for the flash experiments and new javascript 
    experiments too.
-5) 2 experiments are left in the Data Structures Lab.
+5) Need to work on remaining 2 experiments (4th & 9th) in the Data Structures Lab.
