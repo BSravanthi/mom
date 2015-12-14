@@ -8,5 +8,5 @@
 2) We need to document the test cases for new 2nd exp. - Sadhana & Sravanthi
 3) Need to implement 2 experiments of Computer Organization Lab. - GiriTej 
 4) Need to document the test cases for the flash experiments and new javascript 
-   experiments too.
+   experiments too for the same experiments. - GiriTej
 5) Need to work on remaining 2 experiments (4th & 9th) in the Data Structures Lab.
