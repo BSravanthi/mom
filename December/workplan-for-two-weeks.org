@@ -1,0 +1,8 @@
+* Workplan for next two weeks
+
+1) We need to implement the 2nd exp. - Sadhana & Sravanthi
+2) We need to document the test cases for new 2nd exp. - Sadhana & Sravanthi
+3) Need to implement 2 experiments of Computer Organization Lab. - GiriTej 
+4) Need to document the test cases for the flash experiments and new javascript 
+   experiments too.
+5) 2 experiments are left in the Data Structures Lab.
