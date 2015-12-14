@@ -2,7 +2,7 @@
 #+Author: Integration team
 #+Date:   <2015-12-14 Monday>
 
-* Workplan for next two weeks
+** Workplan for next two weeks
 
 1) We need to implement the 2nd exp. - Sadhana & Sravanthi
 2) We need to document the test cases for new 2nd exp. - Sadhana & Sravanthi
