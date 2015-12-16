@@ -10,4 +10,4 @@
 3) Need to implement 2 experiments of Computer Organization Lab. - GiriTej 
 4) Need to document the test cases for the flash experiments and new javascript 
    experiments too for the same experiments. - GiriTej
-5) 2 experiments ( i.e., 4th or 9th) are left from Data Structures Lab.
+5) 2 experiments ( i.e., 4th or 9th) are left in Data Structures Lab.
