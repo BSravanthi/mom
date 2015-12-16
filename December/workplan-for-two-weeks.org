@@ -1,12 +1,11 @@
-#+Title:  Status Update Meeting
 #+Author: Integration team
 #+Date:   <2015-12-14 Monday>
 
 ** Workplan for next two weeks
 
-1) We need to implement the 2nd exp. - Sadhana & Sravanthi
-2) We need to document the test cases for new 2nd exp. - Sadhana & Sravanthi
+1) Need to implement the 2nd exp. - Sadhana & Sravanthi
+2) Need to document the test cases for new 2nd exp. - Sadhana & Sravanthi
 3) Need to implement 2 experiments of Computer Organization Lab. - GiriTej 
 4) Need to document the test cases for the flash experiments and new javascript 
    experiments too for the same experiments. - GiriTej
-5) Some one need to start work on one of the experiments ( i.e., 4th or 9th) from Data Structures Lab.
+5) 2 experiments ( i.e., 4th or 9th) are left from Data Structures Lab.
