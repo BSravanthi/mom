@@ -7,7 +7,7 @@ Prof. Raghu, Giritej, Sravanthi, Sadhana
 
 ** Tasks to do
 
-- Go through allpairs algorithm and then modify the test cases for the
+- Go through All-Pairs Algorithm and then modify the test cases for the
   experiments in Computer-Organization Lab - Giritheja
   
   
