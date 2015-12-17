@@ -1,0 +1,22 @@
+#+Title:  Status Update Meeting
+#+Author: Integration team
+#+Date:   <2015-12-17 Wednesday>
+
+** Attendees
+Prof. Raghu, Giritej, Sravanthi, Sadhana
+
+** Tasks to do
+- Go through allpairs algorithm and then modify the test cases for the
+  experiments in Computer-Organization Lab - Giritheja
+- Modify the css for the new javascript experiment(first) in Computer
+  Organization lab. - Giritheja
+
+- Make the experiment responsive using bootstrap. -Giritheja
+
+- Implement flash to java conversion for the 9th experiment from Computer
+  Organization lab. -Giritheja 
+
+- Demo the flash to java conversion experiment from Data-Structures
+  Lab. - Sadhana and Sravanthi
+ 
+  
