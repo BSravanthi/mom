@@ -1,0 +1,29 @@
+#+Title:  Status Update Meeting
+#+Author: Integration team
+#+Date:   <2015-12-23 Wednesday>
+
+** Attendees
+Prof. Raghu, Giritheja, Sravanthi, Sadhana, Khushpreet
+
+** Discussion and Tasks to do
+
+- Complete experiment 9th and document all the dependencies and the
+  other lab related information - Giritheja
+
+- Update labspec.json for computer organization lab - Gritheja
+
+- Handover all the three(1st, 2nd and 9th experiment) to QA team for
+  testing - Giritheja
+
+- Complete 2nd experiment of Data Structures lab - Sravanthi & Sadhana
+
+- Pick up new experiment from Data Structures lab - Khushpreet 
+
+- Knowledge transfer to Giritheja regarding integration process -
+  Khushpreet
+
+
+
+
+ 
+  
