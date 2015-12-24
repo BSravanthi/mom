@@ -13,7 +13,7 @@
  |--------------------+----------------------------------------+------------------------|
 
 
-*The last work update from them on November, 18th*
+*Latest work update from them on November, 18th*
   
 1) Sorting using Arrays (Anveshi): Done with insertion sort Animation
    for sorted array with basic functions. Todo: generalized Insertion
