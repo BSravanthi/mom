@@ -1,0 +1,47 @@
+#+Title:  List of RAs and their work
+#+Author: Khushpreet kaur
+#+Date:   <2015-12-24 Thursday>
+
+ |--------------------+----------------------------------------+------------------------|
+ | Name               | Email Id                               | Assigned work          |
+ |--------------------+----------------------------------------+------------------------|
+ | Anveshi shukla     | anveshishukla@gmail.com                | Sorting using Arrays   |
+ | Sourav Sarangi     | souravmothers153@gmail.com             | Search Trees           |
+ | Ayush Mishra       | ayushmishra.iit@gmail.com              | Graph Traversals       |
+ | Avinash Kalivarapu | kalivarapu.avinash@students.iiit.ac.in | Minimum Spanning Trees |
+ | Siddharth Bhatore  | siddharth.bhatore@research.iiit.ac.in  | Automation Script      |
+ |--------------------+----------------------------------------+------------------------|
+
+
+* Update from November, 18th
+  
+1) Sorting using Arrays (Anveshi): Done with insertion sort Animation
+   for sorted array with basic functions. Todo: generalized Insertion
+   sort routine/ method.  
+
+2) Search Trees (Sourav) - Done with search algorithms, still need to polish
+   code. Todo: Functional testing and styles to simulation.  
+
+3) Graph Traversals (Ayush Mishra) - Working on functional test cases for
+   same experiment. 50% of work is done, needs one more week to finish
+   this task.  
+
+4) Minimum Spanning Trees (Avinash) - Started working on
+   simulation, 60% functionality is done. Needs 2 weeks time to finish
+   this experiment.
+
+5) Automation Script (Siddharth) - Installed various virtual machines
+   to test script. The response by the VMs was pretty slow, so testing
+   the automation script could not be done this week.
+
+   Tested the script successfully on the following machines:
+
+    Ubuntu 14.04, with nothing installed in it(scratch).
+    Ubuntu 14.04, with previously installed versions of java ans flash.
+    Fedora 20 , with nothing installed in it.
+    Fedora 20, with previously installed versions os java and flash.
+
+    Java is getting installed/updated successfully in the above
+    cases. There is flash plugin problem with some experiments. Need
+    to work on the same problem. The script still needs to get tested
+    on other systems too like CentOS machine, etc.
