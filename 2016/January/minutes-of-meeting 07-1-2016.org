@@ -5,9 +5,11 @@
 *** Tasks 
 - Fix the bugs of Problem-Solving Lab.
 
-  S1 bugs (20): Khushpreet
-  S2 bugs (110): Sravanthi and Sadhana 
-  S3 bugs (10): Khushpreet
+  S1 bugs (20)  : Khushpreet
+  
+  S2 bugs (110) : Sravanthi and Sadhana 
+  
+  S3 bugs (10)  : Khushpreet
 
 - List out the common libraries for the first 20 labs from IIITH and
   start building libraries. - Sravanthi,Khushpreet,Sadhana.
@@ -15,10 +17,14 @@
 - Document in detail about the experiment for building libraries.
 
 *** Status of the Tasks
+
 -  Total bugs in Problem-Solving Lab.
-   S1- 20 --> 19 bugs are fixed.
-   S2- 110 --> 35 bugs are fixed.
-   s3- 11 --> all are fixed.
+
+   S1 bugs - 20 --> 19 bugs are fixed.
+   
+   S2 bugs - 110 --> 35 bugs are fixed.
+   
+   S3 bugs - 11 --> all are fixed.
 
 *** Discussion on 11-01-2016 - Java to javascript Conversion
 - Need to figure out 60 java experiments to get it done by students.
