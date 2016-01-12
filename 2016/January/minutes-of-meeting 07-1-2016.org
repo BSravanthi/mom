@@ -16,8 +16,9 @@
 
 *** Status of the Tasks
 -  Total bugs in Problem-Solving Lab.
-   S1- 20 --> 11 bugs are fixed.
+   S1- 20 --> 19 bugs are fixed.
    S2- 110 --> 35 bugs are fixed.
    s3- 11 --> all are fixed.
 
+Discussion on 11-01-2016 - Java to javascript Conversion
 - Need to figure out 60 java experiments to get it done by students.
